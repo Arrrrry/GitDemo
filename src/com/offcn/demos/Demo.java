@@ -5,5 +5,6 @@ public class Demo {
         System.out.println("first write");
         System.out.println("second write");
         System.out.println("github write");
+        System.out.println("newbranch write");
     }
 }
